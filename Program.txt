@@ -3,10 +3,6 @@
 print "Hello World"
 
 
-// My second program
-
-print "Hello Earth"
-
 // My third program
 
 print "Hello Moon"
