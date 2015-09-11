@@ -1,3 +1,7 @@
 // My first program
 
 print "Hello World"
+
+// My second program
+
+print "Hello Sun"
