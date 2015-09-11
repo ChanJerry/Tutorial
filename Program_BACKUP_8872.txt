@@ -1,0 +1,16 @@
+// My first program
+
+print "Hello World"
+
+<<<<<<< HEAD
+
+// My third program
+
+print "Hello Moon"
+
+// My fourth program
+=======
+// My second program
+>>>>>>> dev2
+
+print "Hello Sun"
