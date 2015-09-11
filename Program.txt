@@ -5,8 +5,12 @@ print "Hello World"
 
 // My third program
 
+<<<<<<< HEAD
 print "Hello Moon"
 
 // My fourth program
 
 print "Hello Sun"
+=======
+print "Hello Earth"
+>>>>>>> parent of 6f41a5b... Program - Hello Moon
