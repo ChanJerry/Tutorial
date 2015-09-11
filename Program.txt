@@ -6,3 +6,7 @@ print "Hello World"
 // My third program
 
 print "Hello Moon"
+
+// My fourth program
+
+print "Hello Sun"
